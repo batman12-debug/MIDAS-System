@@ -5,7 +5,7 @@ Empowering Seamless Financial Innovation at Scale
 last-commit repo-top-language repo-language-count
 Built with the tools and technologies:
 
-Markdown Spring GNU%20Bash XML
+Markdown Spring, Bash XML
 
 Table of Contents
 
@@ -24,12 +24,18 @@ Why MIDAS-System?
 This project aims to simplify building reliable financial systems with seamless data flow. The core features include:
 
 🧩 🔧 Balance Verification: Utility to verify and display user balances, supporting balance monitoring and validation.
+
 🚀 📡 Kafka Integration: Configurable messaging setup for reliable, scalable event-driven communication.
+
 💾 📝 Transaction Management: Robust models and repositories for handling monetary exchanges and transaction records.
+
 🌐 🔍 Data Modeling & Analysis: Components for aggregating financial data and analyzing network relationships.
+
 ⚙️ 🛠 Easy Deployment: Simplified startup scripts and core application bootstrap for quick setup.
+
 🔑 🔒 Data Persistence & APIs: Efficient data access layers and REST endpoints for user and balance management.
-Getting Started
+
+* Getting Started
 
 Prerequisites
 
