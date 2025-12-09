@@ -1,4 +1,4 @@
-MIDAS-SYSTEM
+*MIDAS-SYSTEM*
 
 Empowering Seamless Financial Innovation at Scale
 
@@ -35,9 +35,9 @@ This project aims to simplify building reliable financial systems with seamless 
 
 🔑 🔒 Data Persistence & APIs: Efficient data access layers and REST endpoints for user and balance management.
 
-* Getting Started
+*Getting Started*
 
-Prerequisites
+*Prerequisites*
 
 This project requires the following dependencies:
 
